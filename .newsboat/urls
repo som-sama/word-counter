@@ -1,0 +1,14 @@
+"query:YouTube:tags # \"YouTube\""
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "Linux" "Youtube"                              #gobletu                    
+
+"query:Reddit:tags # \"Reddit\""
+https://www.reddit.com/r/bash.rss "Reddit" "linux bash"
+
+
+"query:Blogs:tags # \"Blog\""
+https://www.archlinux.org/feeds/news/ "Blog" "linux"
+https://opensource.com/taxonomy/term/6803/feed "Blog" "linux"
+https://www.chrisatmachine.com/rss.xml "Blog" "linux"
+https://www.howtogeek.com/feed/ "Blog" "howtogeek"
+https://www.topbug.net/blog/category/unix-variants/gnu-linux/feed/ "Blog" "linux"
+http://lukesmith.xyz/rss.xml "Blog" "linux"
