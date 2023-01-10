@@ -1,6 +1,11 @@
 "query:YouTube:tags # \"YouTube\""
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "Linux" "Youtube"                              #gobletu                    
 
+
+https://www.youtube.com/feed/channels
+
+
+
 "query:Reddit:tags # \"Reddit\""
 https://www.reddit.com/r/bash.rss "Reddit" "linux bash"
 
